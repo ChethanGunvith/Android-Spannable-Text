@@ -1,0 +1,4 @@
+<resources>
+	<string name="app_name">AppuApplication</string>
+	<string name="termsConditionAgreementMessage">Please read and accept <annotation name="terms_condition_link"> Terms and Condition </annotation>, Company <annotation name="privacy_link"> Privacy Policy </annotation> before you proceed</string>
+</resources>
